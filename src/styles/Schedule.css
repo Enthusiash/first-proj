@@ -1,0 +1,17 @@
+.Cal {
+    text-align: center;
+    align-items: center;
+}
+.but button {
+    color: black;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    justify-content: center;
+    background-color: lightslategray;
+    height: 30px;
+    width: 120px;
+    color: white;
+    text-decoration: none;
+    font-size: 12px;
+}
